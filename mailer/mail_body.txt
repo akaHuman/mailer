@@ -1,0 +1,7 @@
+Hello,
+
+This is the message body that will be sent to all the recipients in the rcvrs.txt file.
+
+Hope it helps.
+
+Thanks!
